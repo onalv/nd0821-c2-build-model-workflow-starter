@@ -9,3 +9,6 @@ In this project you will build such a pipeline.
 
 Link for the project:
 [Github project](https://github.com/onalv/nd0821-c2-build-model-workflow-starter)
+
+Link for the W&B project:
+[W&B project](https://wandb.ai/omarnava/nyc_airbnb/overview)
